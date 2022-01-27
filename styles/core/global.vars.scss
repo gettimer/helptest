@@ -1,0 +1,27 @@
+:root {
+    --bg-color:#F5F6FA;
+    --font-color:#526A72;
+    --font-color-transparent: #526a726c;
+    --body-light:white;
+    --border-color:#DCDCDC;
+    --logo:url('/logo.svg');
+    --blue:#3BACF3;
+
+    --hint-info-color:#3BACF3;
+    --hint-danger-color:#721C24;
+    --hint-warning-color:#856404;
+
+    --hint-info-bg:#F5F6FA;
+    --hint-danger-bg:#F8D7DA;
+    --hint-warning-bg:#FFF3CD;
+
+
+    --hint-info-border:#3BACF3;
+    --hint-danger-border:#F5C6CB;
+    --hint-warning-border:#FFEEBA;
+
+    --hint-info-bg-image : url('/hint-info.svg');
+    --hint-danger-bg-image: url('/hint-danger.svg');
+    --hint-warning-bg-image: url('/hint-warning.svg');
+
+}
